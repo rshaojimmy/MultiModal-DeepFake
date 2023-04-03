@@ -1,0 +1,11 @@
+timm==0.4.12
+transformers==4.8.1
+Pillow==8.3.2
+numpy==1.21.1
+opencv-python==4.5.5.62
+scipy==1.8.0
+scikit_image==0.19.2
+matplotlib==3.4.3
+scikit-learn
+tensorboard
+setuptools==59.5.0
