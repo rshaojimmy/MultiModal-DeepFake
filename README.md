@@ -137,8 +137,8 @@ Where `id` is the original news-id in the VisualNews Repository, `image` is the 
 
 
 
-### Prepare data and Pre-trained Model
-Download the DGM<sup>4</sup> dataset through this link: <a href="https://lifehkbueduhk-my.sharepoint.com/:f:/g/personal/16483782_life_hkbu_edu_hk/En7oPhLwfNZLr4tY1H9xP94BEukx41MAJh7TCFkPcTRL5Q?e=8e1gKf" target='_blank'>[Dataset]</a>
+### Prepare data and the pre-trained model
+Download the DGM<sup>4</sup> dataset through this link: [DGM4](https://lifehkbueduhk-my.sharepoint.com/:f:/g/personal/16483782_life_hkbu_edu_hk/En7oPhLwfNZLr4tY1H9xP94BEukx41MAJh7TCFkPcTRL5Q?e=8e1gKf)
 
 Then download the pre-trained model through this link: [ALBEF_4M.pth](https://storage.googleapis.com/sfr-pcl-data-research/ALBEF/ALBEF_4M.pth) (refer to [ALBEF](https://github.com/salesforce/ALBEF))
 
