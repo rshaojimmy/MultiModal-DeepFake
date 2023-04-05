@@ -91,9 +91,9 @@ Here are the statistics and some sample image-text pairs:
 </div>
 
 **Dataset Samples:**
-<!-- <div align="center">
+<div align="center">
 <img src='./figs/dataset.jpg' width='90%'>
-</div> -->
+</div>
 
 ### Annotations
 
