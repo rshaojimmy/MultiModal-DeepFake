@@ -20,7 +20,7 @@
 <h4 align="center">
   <a href="https://rshaojimmy.github.io/Projects/MultiModal-DeepFake" target='_blank'>[Project Page]</a> |
   <a href="https://youtu.be/EortO0cqnGE" target='_blank'>[Video]</a> |
-  <a href="https://github.com/rshaojimmy/MultiModal-DeepFake" target='_blank'>[Paper]</a> |
+  <a href="https://arxiv.org/abs/2304.02556" target='_blank'>[Paper]</a> |
   <a href="https://lifehkbueduhk-my.sharepoint.com/:f:/g/personal/16483782_life_hkbu_edu_hk/En7oPhLwfNZLr4tY1H9xP94BEukx41MAJh7TCFkPcTRL5Q?e=8e1gKf" target='_blank'>[Dataset]</a>
 </h4>
 <br>
@@ -31,6 +31,7 @@
 
 
 ## Updates
+- [04/2023] Arxiv paper released.
 - [04/2023] Project page and video are released.
 - [04/2023] Code and dataset are released.
 
