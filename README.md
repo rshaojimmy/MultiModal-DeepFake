@@ -235,7 +235,7 @@ Here we list the performance comparison of SOTA multi-modal and single-modal met
 <img src='./figs/table_4.jpg' width='50%'>
 </div>
 
-### Trained checkpoint
+### Model checkpoint
 
 Checkpoint of our trained model (Ours) in Table 2: [best-model-checkpoint](https://lifehkbueduhk-my.sharepoint.com/:u:/g/personal/16483782_life_hkbu_edu_hk/EfFYi4B5UXZPpYQwnaxIxDUBFd41GbHngcbW3y1Z9nfWrg?e=LfKjVK)  
 
