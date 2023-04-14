@@ -138,7 +138,7 @@ Where `id` is the original news-id in the VisualNews Repository, `image` is the 
 
 
 
-### Prepare data and the pre-trained model
+### Prepare data
 Download the DGM<sup>4</sup> dataset through this link: [DGM4](https://lifehkbueduhk-my.sharepoint.com/:f:/g/personal/16483782_life_hkbu_edu_hk/En7oPhLwfNZLr4tY1H9xP94BEukx41MAJh7TCFkPcTRL5Q?e=8e1gKf)
 
 Then download the pre-trained model through this link: [ALBEF_4M.pth](https://storage.googleapis.com/sfr-pcl-data-research/ALBEF/ALBEF_4M.pth) (refer to [ALBEF](https://github.com/salesforce/ALBEF))
@@ -233,6 +233,10 @@ Here we list the performance comparison of SOTA multi-modal and single-modal met
 <img src='./figs/table_3.jpg' width='50%'>
 <img src='./figs/table_4.jpg' width='50%'>
 </div>
+
+### Trained checkpoint
+
+Checkpoint of our trained model (Ours) in Table 2: [best-model-checkpoint](https://lifehkbueduhk-my.sharepoint.com/:u:/g/personal/16483782_life_hkbu_edu_hk/EfFYi4B5UXZPpYQwnaxIxDUBFd41GbHngcbW3y1Z9nfWrg?e=LfKjVK)  
 
 ## Visualization Results
 
