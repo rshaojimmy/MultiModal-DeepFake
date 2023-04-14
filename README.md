@@ -31,6 +31,7 @@
 
 
 ## Updates
+- [04/2023] Trained checkpoint is updated.
 - [04/2023] Arxiv paper released.
 - [04/2023] Project page and video are released.
 - [04/2023] Code and dataset are released.
