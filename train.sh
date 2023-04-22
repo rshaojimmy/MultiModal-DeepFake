@@ -4,7 +4,7 @@ HOST='127.0.0.1'
 PORT='1'
 
 NUM_GPU=8
-python train_ours.py \
+python train.py \
 --config 'configs/train.yaml' \
 --output_dir 'results' \
 --checkpoint 'ALBEF_4M.pth' \
