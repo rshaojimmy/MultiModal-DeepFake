@@ -5,7 +5,7 @@ PORT='1'
 
 NUM_GPU=1
 
-python test_ours.py \
+python test.py \
 --config 'configs/test.yaml' \
 --output_dir 'results' \
 --launcher pytorch \
