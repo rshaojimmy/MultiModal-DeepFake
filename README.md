@@ -1,7 +1,6 @@
 <!-- # MultiModal-DeepFake
 [CVPR 2023] PyTorch code for DGM4: Detecting and Grounding Multi-Modal Media Manipulation -->
 
-
 <div align="center">
 
 <h1>DGM<sup>4</sup>: Detecting and Grounding Multi-Modal Media Manipulation</h1>
@@ -29,6 +28,7 @@
 
 </div>
 
+<h2>If you find this work useful for your research, please kindly star our repo and cite our paper.</h2>
 
 ## Updates
 - [04/2023] Trained checkpoint is updated.
