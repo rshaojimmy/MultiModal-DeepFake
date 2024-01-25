@@ -21,7 +21,7 @@
   <a href="https://youtu.be/EortO0cqnGE" target='_blank'>[Video]</a> |
   <a href="https://arxiv.org/abs/2304.02556.pdf" target='_blank'>[Paper]</a> |
   <a href="https://arxiv.org/pdf/2309.14203.pdf" target='_blank'>[Extension Paper]</a> |
-  <a href="https://lifehkbueduhk-my.sharepoint.com/:f:/g/personal/16483782_life_hkbu_edu_hk/En7oPhLwfNZLr4tY1H9xP94BEukx41MAJh7TCFkPcTRL5Q" target='_blank'>[Dataset]</a>
+  <a href="https://huggingface.co/datasets/rshaojimmy/DGM4" target='_blank'>[Dataset]</a>
 </h4>
 <br>
 
