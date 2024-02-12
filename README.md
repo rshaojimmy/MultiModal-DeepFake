@@ -19,8 +19,8 @@
 <h4 align="center">
   <a href="https://rshaojimmy.github.io/Projects/MultiModal-DeepFake" target='_blank'>[Project Page]</a> |
   <a href="https://youtu.be/EortO0cqnGE" target='_blank'>[Video]</a> |
-  <a href="https://arxiv.org/abs/2304.02556.pdf" target='_blank'>[Paper]</a> |
-  <a href="https://arxiv.org/pdf/2309.14203.pdf" target='_blank'>[Extension Paper]</a> |
+  <a href="https://arxiv.org/abs/2304.02556.pdf" target='_blank'>[CVPR Paper]</a> |
+  <a href="https://arxiv.org/pdf/2309.14203.pdf" target='_blank'>[TPAMI Paper]</a> |
   <a href="https://huggingface.co/datasets/rshaojimmy/DGM4" target='_blank'>[Dataset]</a>
 </h4>
 <br>
