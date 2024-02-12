@@ -32,6 +32,7 @@
 <h2>If you find this work useful for your research, please kindly star our repo and cite our paper.</h2>
 
 ## Updates
+- [02/2024] Extension paper has been accepted by TPAMI.
 - [01/2024] Dataset link has been updated with hugginface.
 - [09/2023] Arxiv extension paper released.
 - [04/2023] Trained checkpoint is updated.
