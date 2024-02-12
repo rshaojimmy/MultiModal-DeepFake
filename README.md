@@ -8,6 +8,8 @@
 <div>
     <a href="https://rshaojimmy.github.io/" target="_blank">Rui Shao<sup>1,2</sup></a>
     <a href="https://tianxingwu.github.io/" target="_blank">Tianxing Wu<sup>2</sup></a>
+    <a href="https://jlwu1992.github.io/" target="_blank">Jianlong Wu<sup>1,2</sup></a>
+    <a href="https://liqiangnie.github.io/index.html" target="_blank">Liqiang Nie<sup>1,2</sup></a>
     <a href="https://liuziwei7.github.io/" target="_blank">Ziwei Liu<sup>2</sup></a>
 </div>
 <div>
