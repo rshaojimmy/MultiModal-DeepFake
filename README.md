@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<h1>DGM<sup>4</sup>: Detecting and Grounding Multi-Modal Media Manipulation</h1>
+<h1>DGM<sup>4</sup>: Detecting and Grounding Multi-Modal Media Manipulation and Beyond</h1>
 
 <div>
     <a href="https://rshaojimmy.github.io/" target="_blank">Rui Shao<sup>1,2</sup></a>
